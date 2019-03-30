@@ -1,15 +1,14 @@
 ## 项目进度overview
-参考[IA004_blockchain](<https://github.com/livingworld/IA004_blockchain>)
-参考课程组提供的[bp进度安排](https://static.openmindclub.com/2019-03-20-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_1e8f293f-50fb-4a81-8321-5a11fe30820f.png)制作了项目进度
+参考[IA004_blockchain](<https://github.com/livingworld/IA004_blockchain>)  
+参考课程组提供的[bp进度安排](https://static.openmindclub.com/2019-03-20-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_1e8f293f-50fb-4a81-8321-5a11fe30820f.png)制作了项目进度  
 
 ### ~~开始前~~
-团队成员介绍
-队员: @Moses @山鬼 @晴天老猪 @乾元 @代旭东
-教练: @钟慰 @花儿笑
-观察员: @子微 @朱九爷 @Rosy @ 无知无谓 @碳酸汽水喝到炸 @钟蓉 @月明星稀 @王彭Rebecca @知知知知鸟 @L小夕
+团队成员介绍  
+队员: @Moses @山鬼 @晴天老猪 @乾元 @代旭东  
+教练: @钟慰 @花儿笑  
+观察员: @子微 @朱九爷 @Rosy @ 无知无谓 @碳酸汽水喝到炸 @钟蓉 @月明星稀 @王彭Rebecca @知知知知鸟 @L小夕  
 
 ### 执行中
-
 | 信分阶段 | 日期               | meeting  | 活动（会议记录）                                             |
 | -------- | ------------------ | -------- | ------------------------------------------------------------ |
 | 信息获取 | ~~20190327(4wd3)~~ | ~~小组~~ | [~~破冰会议~~](https://github.com/livingworld/IA004_blockchain/blob/master/delivery/%E7%A0%B4%E5%86%B0%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95.md) |
@@ -56,21 +55,21 @@
 链接到Issues需要手动更新
 
 ## 协作工具
-项目协作: github
-三种使用方法，根据自己的能力选择上手最快的一种：网页操作，github desktop（Mac），git gui
+项目协作: github  
+三种使用方法，根据自己的能力选择上手最快的一种：网页操作，github desktop（Mac），git gui  
 
-[github的Issues](https://github.com/chaozding/IA004-BP-CloseRelationship/issues?q=is%3Aissue+is%3Aopen)供组员发布任意形式的讨论
-[github的Code](https://github.com/chaozding/IA004-BP-CloseRelationship)用来更新项目进度
-[github的Projects](https://github.com/chaozding/IA004-BP-CloseRelationship/projects/1)供组员添加任务
+[github的Issues](https://github.com/chaozding/IA004-BP-CloseRelationship/issues?q=is%3Aissue+is%3Aopen)供组员发布任意形式的讨论  
+[github的Code](https://github.com/chaozding/IA004-BP-CloseRelationship)用来更新项目进度  
+[github的Projects](https://github.com/chaozding/IA004-BP-CloseRelationship/projects/1)供组员添加任务  
 
-文献共享: https://www.zotero.org/groups/2309891/ia004-bp-closerelationship 加入这个群组, 如果使用有麻烦, 可以先不用这个 
+文献共享: https://www.zotero.org/groups/2309891/ia004-bp-closerelationship 加入这个群组, 如果使用有麻烦, 可以先不用这个   
 
-资料共享: 百度网盘
+资料共享: 百度网盘  
 链接:https://pan.baidu.com/s/1PYcIcMV6FkcjcUw_w-H0uw  密码:kic3
 
 ## 参考资料
-[BP工具箱](https://github.com/happylyy/IA004_blockchain/blob/master/reference/BP%E5%B7%A5%E5%85%B7%E7%AE%B1.md)
-[会议记录模板](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81%E6%A8%A1%E6%9D%BF.md)
-[前辈协作案例](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E5%BE%80%E6%9C%9F%E4%BC%98%E7%A7%80%E5%8D%8F%E4%BD%9C%E6%A1%88%E4%BE%8B.md)
-[如何写卡片](https://www.yangzhiping.com/psy/happy-new-year-faq3.html)
-[git使用简介](http://www.bootcss.com/p/git-guide/)
+[BP工具箱](https://github.com/happylyy/IA004_blockchain/blob/master/reference/BP%E5%B7%A5%E5%85%B7%E7%AE%B1.md)    
+[会议记录模板](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81%E6%A8%A1%E6%9D%BF.md)  
+[前辈协作案例](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E5%BE%80%E6%9C%9F%E4%BC%98%E7%A7%80%E5%8D%8F%E4%BD%9C%E6%A1%88%E4%BE%8B.md)    
+[如何写卡片](https://www.yangzhiping.com/psy/happy-new-year-faq3.html)  
+[git使用简介](http://www.bootcss.com/p/git-guide/)    
