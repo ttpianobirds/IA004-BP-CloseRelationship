@@ -25,6 +25,7 @@
 |          | 20190416           | 小组     | 下班后排练                                                   |
 |          | 20190416(7wd2)     | 课程组   | 路演、      second day，second                               |
 
+![课程建议进度](https://static.openmindclub.com/2019-03-20-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_1e8f293f-50fb-4a81-8321-5a11fe30820f.png)
 
 ### 执行后
 | 日期           | meeting | 活动                        |
@@ -47,22 +48,25 @@
 /reference 	 存放参考资料列表，pdf使用坚果云，这里有一个包含参考资料连接的文档
 /storage	 存放image等，需要调用link的，用其他图床也可以，只要link有效就行
 / 		     存放过程文档（如大家提交的报告等）
+             报告可临时存放到Issues
 
 ## BP大纲
 [更新版](https://github.com/chaozding/IA004-BP-CloseRelationship/blob/master/BPOutline.md)
 
 ## 当前问题
-链接到issues需要手动更新
+链接到Issues需要手动更新
 
 ## 协作工具
-项目协作：github
+项目协作: github
 三种使用方法，根据自己的能力选择上手最快的一种：网页操作，github desktop（Mac），git gui
 
 [github的Issues](https://github.com/chaozding/IA004-BP-CloseRelationship/issues?q=is%3Aissue+is%3Aopen)供组员发布任意形式的讨论
 [github的Code](https://github.com/chaozding/IA004-BP-CloseRelationship)用来更新项目进度
 [github的Projects](https://github.com/chaozding/IA004-BP-CloseRelationship/projects/1)供组员添加任务
 
-文档共享：百度网盘
+文献共享: https://www.zotero.org/groups/2309891/ia004-bp-closerelationship 加入这个群组, 如果使用有麻烦, 可以先不用这个 
+
+资料共享: 百度网盘
 链接:https://pan.baidu.com/s/1PYcIcMV6FkcjcUw_w-H0uw  密码:kic3
 
 ## 参考资料
