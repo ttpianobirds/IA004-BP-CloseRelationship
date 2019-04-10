@@ -18,7 +18,7 @@
 
       这里我们模仿金观涛先生的社会发展模型，把婚姻制度从意识形态、经济、政治和个人感情四个方面来做一个历史纵向分析。
 
-      ![1554878752904](.\pic\1554878752904.png)
+      ![1554878752904](https://github.com/ttpianobirds/IA004-BP-CloseRelationship/blob/master/pic/1554878752904.png)
 
 
 
