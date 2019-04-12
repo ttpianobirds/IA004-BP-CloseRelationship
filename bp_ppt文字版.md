@@ -345,11 +345,13 @@ typora-root-url: pic
 
   - 心理咨询
 
+
 - 情趣用品类
 
   - 实体产品公司
 
   - 网上app（他趣等）
+  ![1555036896176](https://github.com/ttpianobirds/IA004-BP-CloseRelationship/blob/master/pic/1555036896176.png)
 
 
 结语：
